@@ -1,0 +1,2 @@
+# Ecommerce Website
+ This is an e-commerce site, that i have developed using Reactjs. the site is getting all the products from a API, that' why i have integrate a rest api with this project to get the products data for showing on UI. during the development of this project i learned so many new concepts about the reactjs like how to manage global states using context api, hooks, reducer etc and also learned how to play with API's
